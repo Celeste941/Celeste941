@@ -1,10 +1,11 @@
 <br clear="both">
 
 <h1 align="center">Hola 💕, soy Celeste</h1>
+<img align="right" height="150" src="https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif"  />
+
 
 ###
 
