@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hola 💕, soy Celeste<br><br><br>Desarrolladora frontend apasionada por el aprendizaje 💕</h1>
+<h1 align="center">Hola 💕, soy Celeste</h1>
 
 ###
 
