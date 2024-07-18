@@ -1,13 +1,13 @@
 <br clear="both">
+###
 
 <h1 align="center">Hola 💕, soy Celeste</h1>
 <img align="right" height="150" src="https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif"  />
 
-###
-
-
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
