@@ -20,14 +20,11 @@
 
 <br clear="both">
 
-<p align="left">Desarrolladora frontend recientemente graduada de un bootcamp intensivo en Desarrollo Front-end. <br>Mi pasión por la tecnología y el diseño de interfaces web me ha llevado a adquirir habilidades en HTML, CSS, JavaScript, Bootstrap, SASS, Vue.js, Vuex, Firebase y jQuery. <br> Estoy emocionada por aplicar mis conocimientos en proyectos innovadores y seguir creciendo en el campo del desarrollo web.</p>
+<p align="center">Desarrolladora frontend recientemente graduada de un bootcamp intensivo en Desarrollo Front-end. <br>Mi pasión por la tecnología y el diseño de interfaces web me ha llevado a adquirir habilidades en HTML, CSS, JavaScript, Bootstrap, SASS, Vue.js, Vuex, Firebase y jQuery. <br> Estoy emocionada por aplicar mis conocimientos en proyectos innovadores y seguir creciendo en el campo del desarrollo web.</p>
 
 ###
 
-<br clear="both">
-
-
-
+<img src="https://raw.githubusercontent.com/Celeste941/Celeste941/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -71,4 +68,3 @@
 </div>
 
 ###
-
