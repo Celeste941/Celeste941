@@ -28,6 +28,7 @@
 
 <img src="https://raw.githubusercontent.com/Celeste941/Celeste941/output/snake.svg" alt="Snake animation" />
 
+
 ###
 
 <h2 align="left">TECNOLOGIAS</h2>
