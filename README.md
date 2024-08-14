@@ -101,7 +101,3 @@ Hola, ¡Soy Celeste! una desarrolladora front-end apasionada por la tecnología 
 Gracias por visitar mi perfil. Estoy emocionada de conectar contigo y explorar cómo podemos colaborar juntos.
 
 
-
-<h2 align="left">TECNOLOGIAS</h2>
-
-
