@@ -62,12 +62,6 @@ Hola, ¡Soy Celeste! una desarrolladora front-end apasionada por la tecnología 
 - **LinkedIn:** [Ana Celeste Pérez Oviedo](https://www.linkedin.com/in/ana-celeste-perez-oviedo-29bb0218a/)
 - **GitHub:** [Celeste941](https://github.com/Celeste941)
 
-Estoy abierta a nuevas oportunidades y desafíos en el desarrollo web. ¡No dudes en contactarme para explorar posibles colaboraciones o roles!
-
-<h2 align="left">CONTACTO</h2>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ana-celeste-perez-oviedo-29bb0218a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -76,9 +70,6 @@ Estoy abierta a nuevas oportunidades y desafíos en el desarrollo web. ¡No dude
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
 
 ---
 
