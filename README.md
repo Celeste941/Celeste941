@@ -20,16 +20,14 @@
 
 <br clear="both">
 
-# Ana Celeste de Jesús Pérez Oviedo
-
 🌍 **Ubicación:** Chile  
-🇻🇪 **Origen:** Venezuela  
+   **Origen:** Venezuela  
 💻 **Profesión:** Front-end Developer  
 🎓 **Formación:** Reciente graduada del Bootcamp en Desarrollo Front-end de Desafío Latam - Talento Digital
 
 ---
 
-Hola, soy Ana Celeste de Jesús Pérez Oviedo, una desarrolladora front-end apasionada por la tecnología y el diseño de interfaces web. Me especializo en crear experiencias de usuario intuitivas y visualmente atractivas. Actualmente, estoy perfeccionando mis habilidades a través del bootcamp de Desafío Latam, donde he trabajado en varios proyectos que reflejan mi dedicación y compromiso con el desarrollo web moderno.
+Hola, ¡Soy Celeste! una desarrolladora front-end apasionada por la tecnología y el diseño de interfaces web. Me especializo en crear experiencias de usuario intuitivas y visualmente atractivas. Actualmente, estoy perfeccionando mis habilidades a través del bootcamp de Desafío Latam, donde he trabajado en varios proyectos que reflejan mi dedicación y compromiso con el desarrollo web moderno.
 
 ## 📚 Experiencia Profesional
 
@@ -38,7 +36,6 @@ Hola, soy Ana Celeste de Jesús Pérez Oviedo, una desarrolladora front-end apas
 - Desarrollo de interfaces web responsivas y dinámicas en proyectos individuales y grupales.
 - Implementación de aplicaciones web utilizando tecnologías como Vue.js y Firebase.
 - Colaboración en entornos ágiles con metodologías SCRUM.
-- Uso de Git y GitHub para control de versiones y colaboración en proyectos.
 
 ### Coordinadora / Secretaria - Clínica Dental Mediterráneo S.P.A
 *01.2018 – 01.2013*
@@ -66,6 +63,22 @@ Hola, soy Ana Celeste de Jesús Pérez Oviedo, una desarrolladora front-end apas
 - **GitHub:** [Celeste941](https://github.com/Celeste941)
 
 Estoy abierta a nuevas oportunidades y desafíos en el desarrollo web. ¡No dudes en contactarme para explorar posibles colaboraciones o roles!
+
+<h2 align="left">CONTACTO</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ana-celeste-perez-oviedo-29bb0218a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/56979368299" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
 
 ---
 
@@ -99,17 +112,3 @@ Gracias por visitar mi perfil. Estoy emocionada de conectar contigo y explorar c
 
 ###
 
-<h2 align="left">CONTACTO</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ana-celeste-perez-oviedo-29bb0218a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/56979368299" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
