@@ -20,7 +20,56 @@
 
 <br clear="both">
 
-<p align="center">Desarrolladora frontend recientemente graduada de un bootcamp intensivo en Desarrollo Front-end. <br>Mi pasión por la tecnología y el diseño de interfaces web me ha llevado a adquirir habilidades en HTML, CSS, JavaScript, Bootstrap, SASS, Vue.js, Vuex, Firebase y jQuery. <br> Estoy emocionada por aplicar mis conocimientos en proyectos innovadores y seguir creciendo en el campo del desarrollo web.</p>
+# Ana Celeste de Jesús Pérez Oviedo
+
+🌍 **Ubicación:** Chile  
+🇻🇪 **Origen:** Venezuela  
+💻 **Profesión:** Front-end Developer  
+🎓 **Formación:** Reciente graduada del Bootcamp en Desarrollo Front-end de Desafío Latam - Talento Digital
+
+---
+
+Hola, soy Ana Celeste de Jesús Pérez Oviedo, una desarrolladora front-end apasionada por la tecnología y el diseño de interfaces web. Me especializo en crear experiencias de usuario intuitivas y visualmente atractivas. Actualmente, estoy perfeccionando mis habilidades a través del bootcamp de Desafío Latam, donde he trabajado en varios proyectos que reflejan mi dedicación y compromiso con el desarrollo web moderno.
+
+## 📚 Experiencia Profesional
+
+### Estudiante de Bootcamp - Desafío Latam
+*03.2024 - Presente*
+- Desarrollo de interfaces web responsivas y dinámicas en proyectos individuales y grupales.
+- Implementación de aplicaciones web utilizando tecnologías como Vue.js y Firebase.
+- Colaboración en entornos ágiles con metodologías SCRUM.
+- Uso de Git y GitHub para control de versiones y colaboración en proyectos.
+
+### Coordinadora / Secretaria - Clínica Dental Mediterráneo S.P.A
+*01.2018 – 01.2013*
+- Gestión del personal de la clínica y administración de insumos.
+- Coordinación y supervisión en ausencia de la jefa.
+- Organización de cursos y capacitaciones para el personal.
+- Recepción de pacientes, gestión de citas y procesamiento de pagos.
+
+## 🎓 Educación
+
+- **2024:** Front-end Developer Bootcamp - Desafío Latam
+- **2014 - 2018:** Cirujano Dentista - Universidad Gran Mariscal de Ayacucho
+
+## 🛠 Conocimientos
+
+- **Lenguajes y Tecnologías:** HTML, CSS, JavaScript, Bootstrap, SASS
+- **Frameworks y Librerías:** Vue.js, Vue Router, Vuex, Firebase, jQuery, Axios
+- **Idiomas:** Inglés Básico
+
+## 📞 Contacto
+
+- **WhatsApp:** [+56979368299](https://wa.me/56979368299)
+- **Correo electrónico:** [anacelestep941@gmail.com](mailto:anacelestep941@gmail.com)
+- **LinkedIn:** [Ana Celeste Pérez Oviedo](https://www.linkedin.com/in/ana-celeste-perez-oviedo-29bb0218a/)
+- **GitHub:** [Celeste941](https://github.com/Celeste941)
+
+Estoy abierta a nuevas oportunidades y desafíos en el desarrollo web. ¡No dudes en contactarme para explorar posibles colaboraciones o roles!
+
+---
+
+Gracias por visitar mi perfil. Estoy emocionada de conectar contigo y explorar cómo podemos colaborar juntos.
 
 
 
