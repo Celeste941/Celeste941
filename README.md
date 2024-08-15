@@ -20,8 +20,8 @@
 
 <br clear="both">
 
-🌍 **Ubicación:** Chile  
-   **Origen:** Venezuela  
+📍 **Ubicación:** Chile  
+🌍  **Origen:** Venezuela  
 💻 **Profesión:** Front-end Developer  
 🎓 **Formación:** Reciente graduada del Bootcamp en Desarrollo Front-end de Desafío Latam - Talento Digital
 
